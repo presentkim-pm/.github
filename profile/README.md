@@ -1,16 +1,10 @@
-<div id="header" style="asdsad" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div class="Popover-message Box Popover-message--top-right Popover-message--large p-4 mt-2 mx-auto text-left color-shadow-large">
-  <h2>
+<h2>
   <a href="https://github.com/presentkim-pm/ConsoleExporter">
     <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/ConsoleExporter/main/assets/icon.png" alt="Logo" width="80" height="80">
     ConsoleExporter
   </a>
 </h2>
 <p>Recording console and exports to html!</p>
-</a>
-</div>
 
 -----
 
