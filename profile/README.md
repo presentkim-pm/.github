@@ -1,4 +1,3 @@
------
 
 <a href="https://github.com/presentkim-pm/ConsoleExporter">
   <h2>
@@ -33,9 +32,17 @@
 <a href="https://github.com/presentkim-pm/Flashlight">
   <h2>
     <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/Flashlight/main/assets/icon.png" alt="Logo" width="80" height="80">
-    Flashlight
+    Flashlight 
   </h2>
   <p>Make glowing when holding light source!</p>
 </a>
 
 -----
+
+<a href="https://github.com/presentkim-pm/PersonaSkin">
+  <h2>
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/PersonaSkin/main/assets/icon.png" alt="Logo" width="80" height="80">
+    PersonaSkin
+  </h2>
+  <p>Shows persona skins correctly!</p>
+</a>
