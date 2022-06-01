@@ -1,0 +1,23 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container{
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          margin: 0;
+          width: 100%;
+          height: 400px;
+          border-radius: 10px;
+        }
+      </style>
+      <h2>
+        <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/IgnoreCase/main/assets/icon.png" alt="Logo" width="80" height="80"/>
+        IgnoreCase
+      </h2>
+      <p>Ignore case when use the commands!</p>
+    </div>
+  </foreignObject>
+</svg>
