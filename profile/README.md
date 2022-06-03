@@ -45,3 +45,13 @@
   </a>
 </h2>
 <p>Shows persona skins correctly!</p>
+
+-----
+
+<h2>
+  <a href="https://github.com/presentkim-pm/SmeltingAccelerator">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/SmeltingAccelerator/main/assets/icon.png" alt="Logo" width="80" height="80">
+    SmeltingAccelerator
+  </a>
+</h2>
+<p>Multiplies the speed of the furnace!</p>
