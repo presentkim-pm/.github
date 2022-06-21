@@ -67,7 +67,17 @@
 <h2>
   <a href="https://github.com/presentkim-pm/libmultilingual">
     <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/libmultilingual/main/assets/icon.png" alt="Logo" width="80" height="80">
-    <i>lib</i><strong>multilingual</strong>
+    <strong>libmultilingual</strong>
   </a>
 </h2>
 <p>Language management library for multilingual!</p>
+
+-----
+
+<h2>
+  <a href="https://github.com/presentkim-pm/arrayutils">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/arrayutils/main/assets/icon.png" alt="Logo" width="80" height="80">
+    <strong>arrayutils</strong>
+  </a>
+</h2>
+<p>Provides a method to fancy manipulate an array!</p>
