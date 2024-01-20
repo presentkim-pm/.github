@@ -61,9 +61,9 @@
 -----
 
 <h2>
-  <a href="https://github.com/presentkim-pm/SilkTouch">
-    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/SilkTouch/main/assets/icon.png" alt="Logo" width="80" height="80">
-    SilkTouch
+  <a href="https://github.com/presentkim-pm/SilkPickBlock">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/SilkPickBlock/main/assets/icon.png" alt="Logo" width="80" height="80">
+    SilkPickBlock
   </a>
 </h2>
 <p>Pick block while preserving in its original state!</p>
