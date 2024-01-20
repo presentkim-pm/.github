@@ -67,6 +67,15 @@
   </a>
 </h2>
 <p>Pick block while preserving in its original state!</p>
+-----
+
+<h2>
+  <a href="https://github.com/presentkim-pm/Cropper">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/Cropper/main/assets/icon.png" alt="Logo" width="80" height="80">
+    Cropper
+  </a>
+</h2>
+<p>Harvesting crops while preserving their roots with right-click!</p>
 
 -----
 
