@@ -91,8 +91,8 @@
 -----
 
 <h2>
-  <a href="https://github.com/presentkim-pm/VisibleAutoPickup">
-    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/VisibleAutoPickup/main/assets/icon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/presentkim-pm/LifeSpan">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/LifeSpan/main/assets/icon.png" alt="Logo" width="80" height="80">
     LifeSpan
   </a>
 </h2>
