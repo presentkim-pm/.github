@@ -90,6 +90,16 @@
 
 -----
 
+<h2>
+  <a href="https://github.com/presentkim-pm/VisibleAutoPickup">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/VisibleAutoPickup/main/assets/icon.png" alt="Logo" width="80" height="80">
+    LifeSpan
+  </a>
+</h2>
+<p>Set the lifespan of items and arrows!</p>
+
+-----
+
 > > > > > > > > > > > > > > > > > > > > > -----
 
 # :books: Virions (libraries)
