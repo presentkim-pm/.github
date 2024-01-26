@@ -103,7 +103,7 @@
 <h2>
   <a href="https://github.com/presentkim-pm/AvoidSuffocation">
     <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/AvoidSuffocation/main/assets/icon.png" alt="Logo" width="80" height="80">
-    LifeSpan
+    AvoidSuffocation
   </a>
 </h2>
 <p>Automatically avoiding suffocation to sideways!</p>
