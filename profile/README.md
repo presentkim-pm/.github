@@ -86,7 +86,7 @@
     VisibleAutoPickup
   </a>
 </h2>
-<p>Automatically picks up items and xp orbs before others pick them up!</p>
+<p>Automatically picks up items and xp orbs!</p>
 
 -----
 
