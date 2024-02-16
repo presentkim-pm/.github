@@ -131,3 +131,13 @@
   </a>
 </h2>
 <p>Provides a method to fancy manipulate an array!</p>
+
+-----
+
+<h2>
+  <a href="https://github.com/presentkim-pm/remove-plugin-data-folder">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/remove-plugin-data-folder/main/assets/icon.png" alt="Logo" width="80" height="80">
+    <strong>remove-plugin-data-folder</strong>
+  </a>
+</h2>
+<p>Provides utils for remove data folder that isn't used by the plugin!</p>
