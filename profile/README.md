@@ -161,3 +161,13 @@
   </a>
 </h2>
 <p>Provides utils for send PlaySoundPacket more shorter and easier!</p>
+
+-----
+
+<h2>
+  <a href="https://github.com/presentkim-pm/selection-visualize-utils">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/selection-visualize-utils/main/assets/icon.png" alt="Logo" width="80" height="80">
+    <strong>selection-visualize-utils</strong>
+  </a>
+</h2>
+<p>Provides utils for display block selection to player!</p>
