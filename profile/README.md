@@ -141,3 +141,13 @@
   </a>
 </h2>
 <p>Provides utils for remove data folder that isn't used by the plugin!</p>
+
+-----
+
+<h2>
+  <a href="https://github.com/presentkim-pm/item-serialize-utils">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/item-serialize-utils/main/assets/icon.png" alt="Logo" width="80" height="80">
+    <strong>item-serialize-utils</strong>
+  </a>
+</h2>
+<p>Provides utils for (de)serialize more shorter and easier!</p>
