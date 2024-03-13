@@ -171,3 +171,14 @@
   </a>
 </h2>
 <p>Provides utils for display block selection to player!</p>
+
+-----
+
+<h2>
+  <a href="https://github.com/presentkim-pm/nbt-serializer">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/nbt-serializer/main/assets/icon.png" alt="Logo" width="80" height="80">
+    <strong>nbt-serializer</strong>
+  </a>
+</h2>
+<p>Provides utils for (de)serialize nbt more shorter and easier!</p>
+
