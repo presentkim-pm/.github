@@ -192,3 +192,15 @@
 </h2>
 <p>Provides utils for (de)serialize nbt more shorter and easier!</p>
 
+-----
+
+<h2>
+  <a href="https://github.com/presentkim-pm/resourcepack-register">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/resourcepack-register/main/assets/icon.png" alt="Logo" width="80" height="80">
+    <strong>resourcepack-register</strong>
+  </a>
+</h2>
+<p>Provides utils for registering resourcepacks!</p>
+
+-----
+
