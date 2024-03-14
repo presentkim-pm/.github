@@ -110,6 +110,16 @@
 
 -----
 
+<h2>
+  <a href="https://github.com/presentkim-pm/ResourcePackCdn">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/ResourcePackCdn/main/assets/icon.png" alt="Logo" width="80" height="80">
+    ResourcePackCdn
+  </a>
+</h2>
+<p>Aautomatically link resource packs to cdn urls!</p>
+
+-----
+
 > > > > > > > > > > > > > > > > > > > > > -----
 
 # :books: Virions (libraries)
