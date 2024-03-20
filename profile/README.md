@@ -116,7 +116,17 @@
     ResourcePackCdn
   </a>
 </h2>
-<p>Aautomatically link resource packs to cdn urls!</p>
+<p>Automatically link resource packs to cdn urls!</p>
+
+-----
+
+<h2>
+  <a href="https://github.com/presentkim-pm/PluginReplacer">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/PluginReplacer/main/assets/icon.png" alt="Logo" width="80" height="80">
+    PluginReplacer
+  </a>
+</h2>
+<p>Replace the plugin file when the server stop!</p>
 
 -----
 
