@@ -130,6 +130,16 @@
 
 -----
 
+<h2>
+  <a href="https://github.com/presentkim-pm/HotPluginReload">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/HotPluginReload/main/assets/icon.png" alt="Logo" width="80" height="80">
+    HotPluginReload
+  </a>
+</h2>
+<p>Automatically server shutdown the server when the plugins file is changed!</p>
+
+-----
+
 > > > > > > > > > > > > > > > > > > > > > -----
 
 # :books: Virions (libraries)
