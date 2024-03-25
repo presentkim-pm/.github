@@ -140,6 +140,16 @@
 
 -----
 
+<h2>
+  <a href="https://github.com/presentkim-pm/UnicodeFontLoader">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/UnicodeFontLoader/main/assets/icon.png" alt="Logo" width="80" height="80">
+    UnicodeFontLoader
+  </a>
+</h2>
+<p> Automatically load unicode font images and pack them into resourcepack!</p>
+
+-----
+
 > > > > > > > > > > > > > > > > > > > > > -----
 
 # :books: Virions (libraries)
