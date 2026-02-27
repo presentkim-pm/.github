@@ -1,6 +1,16 @@
 # :package: Plugins (Products)
 
 <h2>
+  <a href="https://github.com/presentkim-pm/CameraAPI">
+    <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/CameraAPI/main/assets/icon.png" alt="Logo" width="80" height="80">
+    CameraAPI
+  </a>
+</h2>
+<p>A high-level camera control API!</p>
+
+-----
+
+<h2>
   <a href="https://github.com/presentkim-pm/PhaseWorld">
     <img align="left" src="https://raw.githubusercontent.com/presentkim-pm/PhaseWorld/main/assets/icon.png" alt="Logo" width="80" height="80">
     PhaseWorld
